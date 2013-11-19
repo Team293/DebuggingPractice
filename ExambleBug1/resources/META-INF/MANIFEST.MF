@@ -1,4 +1,4 @@
-MIDlet-Name: ExampleBug2
+MIDlet-Name: ExambleBug1
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: FIRST
 MIDlet-1: RobotTemplate, , edu.wpi.first.wpilibj.templates.RobotTemplate
